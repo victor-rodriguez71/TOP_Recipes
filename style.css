@@ -1,0 +1,17 @@
+* {
+    outline: solid 1px red;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: #d9d9d9;
+    padding-left: 10px;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav li {
+    text-decoration: none;
+    display: inline-block;
+}
